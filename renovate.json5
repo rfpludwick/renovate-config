@@ -7,9 +7,6 @@
 	dependencyDashboard: true,
 	minimumReleaseAge: "3 days",
 	prConcurrentLimit: 3,
-	reviewers: [
-		"rfpludwick",
-	],
 	separateMultipleMajor: true,
 	separateMultipleMinor: false,
 	timezone: "America/Los_Angeles",
