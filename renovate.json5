@@ -6,7 +6,7 @@
 	commitBodyTable: true,
 	dependencyDashboard: true,
 	minimumReleaseAge: "3 days",
-	prConcurrentLimit: 3,
+	prConcurrentLimit: 2,
 	separateMultipleMajor: true,
 	separateMultipleMinor: false,
 	timezone: "America/Los_Angeles",
